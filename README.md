@@ -1,1 +1,3 @@
-# ErrorAlpha
+# ErrorAlpha 
+
+cd Bomber.py 
